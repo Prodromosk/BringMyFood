@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BringMeFood>
+<Driver name="John Smith">
+<Journey date="17/02/2023">
+<Collection>SR2 4GH</Collection>
+<Delivery>NE15 7ZZ</Delivery>
+<Distance>9</Distance>
+</Journey>
+<Journey date="22/03/2023">
+<Collection>DH5 1YZ</Collection>
+<Delivery>SR2 5XY</Delivery>
+<Distance>15</Distance>
+</Journey>
+</Driver>
+</BringMeFood>
